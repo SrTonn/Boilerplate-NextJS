@@ -2,17 +2,23 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Choose folder and run above command
+Choose folder and run above command to create next-app with dependecies
 
 ```bash
 yarn create next-app -e https://github.com/SrTonn/boilerplate-NextJS
 ```
-Choose your project name
-
+Enter in the project folder
 ```bash
 cd YOUR-PROJECT-NAME
-
+```
+Run it once
+```bash
+yarn prepare
+```
+Run code
+```bash
 yarn dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
