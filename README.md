@@ -6,7 +6,6 @@ Choose folder and run above command
 
 ```bash
 yarn create next-app -e https://github.com/SrTonn/boilerplate-NextJS
-
 ```
 Choose your project name
 
